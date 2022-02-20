@@ -29,11 +29,12 @@ Note: There are duplicate entries for some employees because they have switched 
  
  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-90,398 roles are need to be filled as the "silver tsunami" begins to make an impact.
+ 90,398 roles are need to be filled as the "silver tsunami" begins to make an impact.
 
 ![2022-02-19 (5)](https://user-images.githubusercontent.com/96403349/154824400-15aa1386-8915-4b6f-9ec8-1ebf13e1ceba.png)
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 NO, we have 1,940 employees who qualified to participate in the departments to mentorship the next generation of Pewlett Hackard employees.
 
 ![2022-02-19 (6)](https://user-images.githubusercontent.com/96403349/154824489-928f532a-3bd3-46fb-a5ec-ec2f8bc5e4a9.png)
